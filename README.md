@@ -1,0 +1,1 @@
+I have a previous understanding of HTML, CSS, and JAVASCRIPT, but due to the format of the program I am following all the lessons and providing the examples to github and/or locally. This lesson in specific is designed to accumulate the basic lessons that were covered previously into one webpabe. This includes basic HTML text, links, embedding, and pushing to github. 
