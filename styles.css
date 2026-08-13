@@ -1,0 +1,50 @@
+body {
+    box-sizing: border-box;
+    margin: 16px auto;
+    padding: 16px;
+    background-color: tan;
+    font-family: sans-serif;
+}
+
+.recipe-link a {
+    border: 8px black solid;
+    padding: 16px;
+    width: 640px;
+    margin: 16px 0;
+    display: block;
+    background-color: brown;
+    color: gold;
+    font-size: 32px;
+}
+
+img {
+    border: 8px black solid;
+    margin: 20px;
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 64px;
+}
+
+li {
+    margin: 10px auto;
+}
+
+.nav-bar{
+    border: 5px black solid;
+    padding: 5px;
+    background-color: goldenrod;
+}
+
+.nav-bar a {
+    display: inline-block;
+    width: 100px;
+    height:50px;
+    background-color: brown;
+    text-align :center;
+    vertical-align: middle;
+    color: gold;
+    border: 5px black solid;
+    padding: 6px;
+}
